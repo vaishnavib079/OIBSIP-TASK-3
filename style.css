@@ -1,0 +1,70 @@
+#tc{
+ background-color: lightblue;
+ padding-bottom: 18%;
+}
+
+
+#convert {
+    background-color: black;
+  }
+
+
+#convert:hover {
+    color: floralwhite;
+  }
+
+#clear{
+  background-color: black;
+}
+
+
+#clear:hover {
+  color: floralwhite;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: lightblue;
+  
+    
+  }
+
+
+input {
+    display:block;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 2em;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+::-webkit-input-placeholder {
+     color:lightgray;
+  }
+
+:-moz-placeholder { 
+     color: lightgray;  
+  }
+
+
+::-moz-placeholder {  
+     color: lightgray;  
+  }
+
+
+ :-ms-input-placeholder {  
+     color: lightgray;  
+  }
+
+  
+button {
+    padding: 10px;
+    font-size: 20px;
+    color: darkgrey;
+    margin: 40px;
+  }
+
+  
